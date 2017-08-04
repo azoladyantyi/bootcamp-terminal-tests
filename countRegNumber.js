@@ -3,6 +3,6 @@ var countRegNumber = function(regNumber) {
 
     var regNumber = [];
     for (var i = 0; i < reg.length; i++) {}
-    return regNumber.length;
+    return reg.length;
 };
 module.exports = countRegNumber;
